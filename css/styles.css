@@ -167,6 +167,12 @@ p{
     padding: 3% 2%;
 }
 
+@media (max-width:992px) {
+    .pricing-column {
+        padding: 30px;
+    }
+}
+
 #cta{
     background-color: #f17569;
     text-align: center;
