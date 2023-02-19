@@ -19,8 +19,8 @@ body{
 
 @media(max-width: 992px) {
     .prereg{
-        width: 75%;
-        height: 60%;
+        width: 280px;
+        margin: 15%;
     }
 
 }
